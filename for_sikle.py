@@ -5,7 +5,7 @@ Created on Sun Mar 23 12:35:21 2025
 @author: Bekzod
 
 """
-"""
+
 mehmonlar=['Ali','Abdulloh','Bekzod','Ravshan','Ahmad']
 
 for mehmon in mehmonlar:
@@ -95,5 +95,4 @@ for n in range(son):
 print(uchrashganlar)
 
 
-"""
 
